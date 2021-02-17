@@ -5,7 +5,7 @@ if a == b:
 else:
     print(a, 'is not a palindrome')
 
-
+print('hi')
 
 
 
